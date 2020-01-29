@@ -1,0 +1,8 @@
+.jumbotron {
+	background-image: url(../img/landscape.jpg);	
+	background-size: cover;
+}
+
+.jumbotron h1, h2 {
+	color: white;
+}
